@@ -35,4 +35,4 @@ The libft project at 42 School is an essential stepping stone for mastering prog
 
 ### Conclusion
 
-The libft project is not just about creating a library of functions; it's about gaining a deeper understanding of programming concepts and developing the skills necessary to become a proficient programmer. Through this project, students at 42 School lay the groundwork for their journey towards becoming adept software engineers.
+The libft project is not just about creating a library of functions; it's about gaining a deeper understanding of programming concepts and developing the skills necessary to become a proficient programmer. Through this project, students lay the groundwork for their journey towards becoming adept software engineers.
